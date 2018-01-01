@@ -55,7 +55,7 @@ Turn **all** available channels on, and connect them to internal test signal. Th
 * **[**  Connect to test signal 2xAmplitude, slow pulse  
 * **]**  Connect to test signal 2xAmplitude, fast pulse  
 
-	**Note: Not all possibl internal test connections are implemented here **
+	**Note: Not all possible internal test connections are implemented here **
 
 ###Channel Setting Commands   
 ** x (CHANNEL, POWER_DOWN, GAIN_SET, INPUT_TYPE_SET, BIAS_SET, SRB2_SET, SRB1_SET) X **  
